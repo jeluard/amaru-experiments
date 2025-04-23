@@ -7,11 +7,11 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 # npx @marp-team/marp-cli@latest -s slides
 ---
 
-# **Amaru for developpers**
+# **Amaru for developers**
 
 Amaru's main focus is ops and efficiency
 
-But it's also great for developpers
+But it's also great for developers
 
 ---
 
